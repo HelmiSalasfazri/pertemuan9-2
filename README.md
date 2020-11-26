@@ -92,8 +92,8 @@ if c.lower() == `q`
 ## Source Code Praktikum 5
 ```python
 # -- encoding: utf-8 --
-#hauaahh Rizkyy Coder
-#KELAS : TI.20.A.1
+#hauaahh helmi Coder
+#KELAS : TI.20.A.2
 
 P = print
 print("Masukan data mahasiswa")
